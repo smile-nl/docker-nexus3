@@ -1,7 +1,7 @@
-# sonatype/nexus3
+# smile/nexus based on sonatype/nexus3
 
 
-A Dockerfile for Sonatype Nexus Repository Manager 3, based on CentOS.
+A Dockerfile for Sonatype Nexus Repository Manager 3, based on openjdk (debian jessie).
 
 To run, binding the exposed port 8081 to the host.
 
